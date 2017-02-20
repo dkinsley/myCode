@@ -1,0 +1,13 @@
+﻿Build started 11/3/2016 11:38:37 AM.
+     1>Project "C:\Users\dkins_000\Desktop\CPSC 427\Project4_MsSKELETON\StringParser_TEST\StringParser_TEST.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I..\StringParser /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt StringParser_TEST.cpp
+         StringParser_TEST.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dkins_000\Desktop\CPSC 427\Project4_MsSKELETON\Debug\StringParser_TEST.exe" /INCREMENTAL /NOLOGO ..\StringParser\Debug\StringParser.lib ..\FileReader\Debug\FileReader.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\dkins_000\Desktop\CPSC 427\Project4_MsSKELETON\Debug\StringParser_TEST.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dkins_000\Desktop\CPSC 427\Project4_MsSKELETON\Debug\StringParser_TEST.lib" /MACHINE:X86 Debug\StringParser_TEST.obj
+         StringParser_TEST.vcxproj -> C:\Users\dkins_000\Desktop\CPSC 427\Project4_MsSKELETON\Debug\StringParser_TEST.exe
+     1>Done Building Project "C:\Users\dkins_000\Desktop\CPSC 427\Project4_MsSKELETON\StringParser_TEST\StringParser_TEST.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.35

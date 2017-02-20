@@ -1,0 +1,13 @@
+﻿Build started 11/3/2016 11:38:36 AM.
+     1>Project "C:\Users\dkins_000\Desktop\CPSC 427\Project4_MsSKELETON\FileReader\FileReader.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\FileReader.pdb" /Gd /TP /analyze- /errorReport:prompt FileReader.cpp
+         FileReader.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:".\Debug\FileReader.lib" /NOLOGO Debug\FileReader.obj
+         FileReader.vcxproj -> C:\Users\dkins_000\Desktop\CPSC 427\Project4_MsSKELETON\FileReader\.\Debug\FileReader.lib
+     1>Done Building Project "C:\Users\dkins_000\Desktop\CPSC 427\Project4_MsSKELETON\FileReader\FileReader.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.10
