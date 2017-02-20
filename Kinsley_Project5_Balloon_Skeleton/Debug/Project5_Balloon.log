@@ -1,0 +1,34 @@
+﻿Build started 11/17/2016 7:37:18 PM.
+     1>Project "C:\Users\dkins_000\Desktop\Programs\Kinsley_Project5_Balloon_Skeleton\Project5_Balloon.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Anvil.cpp Balloon.cpp Controller.cpp Instructions.cpp Moveable.cpp Person.cpp Project5_Balloon.cpp Runnable.cpp ScoreKeeper.cpp TerribleBalloon.cpp ThreadUserInput.cpp
+         ThreadUserInput.cpp
+         TerribleBalloon.cpp
+         ScoreKeeper.cpp
+         Runnable.cpp
+         Project5_Balloon.cpp
+         Person.cpp
+         Moveable.cpp
+         Instructions.cpp
+         Controller.cpp
+         Balloon.cpp
+         Anvil.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dkins_000\Desktop\Programs\Kinsley_Project5_Balloon_Skeleton\Debug\Project5_Balloon.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\dkins_000\Desktop\Programs\Kinsley_Project5_Balloon_Skeleton\Debug\Project5_Balloon.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dkins_000\Desktop\Programs\Kinsley_Project5_Balloon_Skeleton\Debug\Project5_Balloon.lib" /MACHINE:X86 Debug\Anvil.obj
+         Debug\Balloon.obj
+         Debug\Controller.obj
+         Debug\Instructions.obj
+         Debug\Moveable.obj
+         Debug\Person.obj
+         Debug\Project5_Balloon.obj
+         Debug\Runnable.obj
+         Debug\ScoreKeeper.obj
+         Debug\TerribleBalloon.obj
+         Debug\ThreadUserInput.obj
+         Project5_Balloon.vcxproj -> C:\Users\dkins_000\Desktop\Programs\Kinsley_Project5_Balloon_Skeleton\Debug\Project5_Balloon.exe
+     1>Done Building Project "C:\Users\dkins_000\Desktop\Programs\Kinsley_Project5_Balloon_Skeleton\Project5_Balloon.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.32
